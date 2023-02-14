@@ -1,0 +1,58 @@
+.container_options {
+   max-width: 1200px;
+}
+
+.container_options .admin_content_header h2 {
+   font-size: 23px;
+}
+
+.container_options label {
+   font-weight: 600;
+   font-size: 18px;
+   width: 15%;
+   display: inline-block;
+}
+
+.container_options .admin_content_header
+{
+   margin-bottom: 35px;
+}
+.admin_bottom_header{
+   margin: 40px 0;
+}
+
+.container_options .submit_options {
+   display: block;
+   background: #2271b1;
+   border-color: #2271b1;
+   color: #fff;
+   padding: 4px 35px;
+   font-size: 18px;
+   cursor: pointer;
+   margin: 35px 0;
+}
+
+.container_options .submit_options:hover {
+   background: #5f8fb7;
+
+}
+
+.container_options .submit_options:active {
+   font-weight: 900;
+}
+
+.container_options .input_field {
+   margin-bottom: 20px;
+}
+
+.input_field.content>label {
+   position: relative;
+   bottom: 50px;
+   left: 0px;
+}
+.container_options .counter-1,
+.container_options .about_bottom_content
+{
+
+   margin-bottom: 80px;
+}
